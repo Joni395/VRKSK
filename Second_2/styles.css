@@ -20,11 +20,3 @@ div{
     width: 100px;
     height: 100px;
 }
-
-section{
-    float: left;
-    width: 65%;
-    color: yellow;
-    height: 230px;
-    padding: 1em;
-}
